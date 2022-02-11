@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm José, a self-taught full-stack developer and language instructor based in New York City. 
+I'm José, a self-taught full-stack developer and language instructor based in New York City.
 
 You can reach me here or at my [email](mailto:j.alvarez11@icloud.com). I'm always happy to help.
 
@@ -15,7 +15,7 @@ I also occasionally write on [Medium](https://jose-elias-alvarez.medium.com).
 
 ## 💼 Things I am doing
 
-I care too much about text editing and contribute to [Neovim](https://github.com/neovim/neovim) and its ecosystem wherever I can. 
+I care too much about text editing and contribute to [Neovim](https://github.com/neovim/neovim) and its ecosystem wherever I can.
 
 My main projects at the moment:
 
@@ -41,3 +41,10 @@ My main projects at the moment:
 ## 🧮 Things, quantified
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-elias-alvarez&show_icons=true&count_private=true)](https://github.com/jose-elias-alvarez)
+
+## Sponsors
+
+Thank you to my sponsors! Your support helps me continue to develop and maintain
+my projects.
+
+<!-- sponsors --><!-- sponsors -->
