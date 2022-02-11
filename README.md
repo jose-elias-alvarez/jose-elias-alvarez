@@ -47,4 +47,4 @@ My main projects at the moment:
 Thank you to my sponsors! Your support helps me continue to develop and maintain
 my projects.
 
-<!-- sponsors --><!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/yutkat"><img src="https://github.com/yutkat.png" width="60px" alt="" /></a><a href="https://github.com/da-moon"><img src="https://github.com/da-moon.png" width="60px" alt="" /></a><!-- sponsors -->
