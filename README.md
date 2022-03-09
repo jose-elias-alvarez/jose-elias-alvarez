@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm José, a self-taught full-stack developer and language instructor based in New York City.
+I'm José, a self-taught full-stack developer and language instructor based in New York City. I'm currently working at [Monthly](https://monthly.com) as a full-stack TypeScript / Python developer.
 
 You can reach me here or at my [email](mailto:j.alvarez11@icloud.com). I'm always happy to help.
 
