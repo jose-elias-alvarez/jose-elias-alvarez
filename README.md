@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Jose, a self-taught full-stack developer and language instructor based in New York City. I'm currently working at [Studio](https://studio.com) as a full-stack developer.
+I'm Jose, a self-taught TypeScript developer based in New York City. I'm currently working at [Studio](https://studio.com) as a full-stack developer.
 
 You can reach me here or at my [email](mailto:j.alvarez11@icloud.com). I'm always happy to help.
 
@@ -20,7 +20,7 @@ I care too much about text editing and contribute to [Neovim](https://github.com
 My main projects at the moment:
 
 - [null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim): Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
-- [nvim-lsp-ts-utils](https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils): Utilities to improve the TypeScript development experience for Neovim's built-in LSP client.
+- [typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim): A minimal `typescript-language-server` integration plugin for Neovim, itself written in TypeScript and transpiled to Lua.
 
 ## 📖 Things I am learning about
 
