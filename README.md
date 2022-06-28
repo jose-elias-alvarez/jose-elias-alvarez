@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Jose, a self-taught TypeScript developer based in New York City. I'm currently working at [Studio](https://studio.com) as a full-stack developer.
+I'm Jose, a self-taught full-stack TypeScript developer based in New York City. I'm currently looking for my next opportunity!.
 
 You can reach me here or at my [email](mailto:j.alvarez11@icloud.com). I'm always happy to help.
 
