@@ -4,8 +4,6 @@ I'm Jose, a self-taught full-stack TypeScript developer based in New York City. 
 
 You can reach me here or at my [email](mailto:j.alvarez11@icloud.com). I'm always happy to help.
 
-I also occasionally write on [Medium](https://jose-elias-alvarez.medium.com).
-
 ## 🔧 Things I can do
 
 - 🖥️ Programming languages: TypeScript, JavaScript / NodeJS, Lua
