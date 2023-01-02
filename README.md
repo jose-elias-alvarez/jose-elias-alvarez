@@ -6,7 +6,7 @@ You can reach me here or at my [email](mailto:j.alvarez11@icloud.com). I'm alway
 
 ## 🔧 Things I can do
 
-- 🖥️ Programming languages: TypeScript, JavaScript / NodeJS, Ruby, Lua
+- 🖥️ Programming languages: TypeScript, JavaScript / Node.js, Ruby, Lua
 - 🖼️ Frameworks: React, Redux, Express, Rails
 - 🗣️ Human languages: English, Spanish, Japanese, Latin
 - 🤹 Other skills: MongoDB, AWS, Google Cloud Platform, Git / GitHub, TDD
