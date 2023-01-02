@@ -1,6 +1,8 @@
 ### Hello! 👋
 
-I'm Jose, a self-taught full-stack TypeScript developer based in New York City. I'm currently working as a software engineer at [Block](https://block.xyz).
+I'm Jose, a self-taught full-stack TypeScript developer based in New York City. 
+
+I'm currently working as a software engineer at [Block](https://block.xyz).
 
 You can reach me here or at my [email](mailto:j.alvarez11@icloud.com). I'm always happy to help.
 
