@@ -1,21 +1,21 @@
 ### Hello! 👋
 
-I'm Jose, a self-taught full-stack TypeScript developer based in New York City.
+I'm Jose, a self-taught full-stack TypeScript developer based in New York City. I'm currently working as a software engineer at [Block](https://block.xyz).
 
 You can reach me here or at my [email](mailto:j.alvarez11@icloud.com). I'm always happy to help.
 
 ## 🔧 Things I can do
 
-- 🖥️ Programming languages: TypeScript, JavaScript / NodeJS, Lua
-- 🖼️ Frameworks: React, Redux, Express, NestJS, Mongoose
-- 🗣️ Human languages: English, Spanish, Japanese, French, Latin
-- 🤹 Other skills: MongoDB, Google Cloud Platform, DevOps, teaching, curriculum design
+- 🖥️ Programming languages: TypeScript, JavaScript / NodeJS, Ruby, Lua
+- 🖼️ Frameworks: React, Redux, Express, Rails
+- 🗣️ Human languages: English, Spanish, Japanese, Latin
+- 🤹 Other skills: MongoDB, AWS, Google Cloud Platform, Git / GitHub, TDD
 
 ## 💼 Things I am doing
 
 I care too much about text editing and contribute to [Neovim](https://github.com/neovim/neovim) and its ecosystem wherever I can.
 
-My main projects at the moment:
+My primary projects at the moment:
 
 - [null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim): Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim): A minimal `typescript-language-server` integration plugin for Neovim, itself written in TypeScript and transpiled to Lua.
@@ -31,12 +31,12 @@ My main projects at the moment:
 ## 💪 Things I do for fun
 
 - 🏋 Weightlifting
+- 🚴 Biking (mostly indoors)
 - ⌨️ Coding
-- 🤼 Contributing to open-source projects
-- 🍳 Cooking (and eating)
+- 🤼 Open source
 - ✈️ Travel
 
-## 🧮 Things, quantified
+## 🧮 Stats
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-elias-alvarez&show_icons=true&count_private=true)](https://github.com/jose-elias-alvarez)
 
