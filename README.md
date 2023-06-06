@@ -1,39 +1,25 @@
-### Hello! 👋
+# Hello! 👋
 
-I'm Jose, a self-taught full-stack TypeScript developer based in New York City. 
-
-I'm currently working as a software engineer at [Block](https://block.xyz).
-
-You can reach me here or at my [email](mailto:j.alvarez11@icloud.com). I'm always happy to help.
+I'm Jose, a self-taught full-stack TypeScript developer based in New York City.
 
 ## 🔧 Things I can do
 
-- 🖥️ Programming languages: TypeScript, JavaScript / Node.js, Ruby, Lua
+- 🖥️ Programming languages: TypeScript, JavaScript / Node.js, Python, Ruby, Lua
 - 🖼️ Frameworks: React, Redux, Express, Rails
 - 🗣️ Human languages: English, Spanish, Japanese, Latin
-- 🤹 Other skills: MongoDB, AWS, Google Cloud Platform, Git / GitHub, TDD
-
-## 💼 Things I am doing
-
-I care too much about text editing and contribute to [Neovim](https://github.com/neovim/neovim) and its ecosystem wherever I can.
-
-My primary projects at the moment:
-
-- [null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim): Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
-- [typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim): A minimal `typescript-language-server` integration plugin for Neovim, itself written in TypeScript and transpiled to Lua.
+- 🤹 Other skills: AWS, Google Cloud Platform, GraphQL, Git / GitHub
 
 ## 📖 Things I am learning about
 
 - Database and API design
-- Clean code and design patterns
+- LLMs and computer vision
 - [Language Server Protocol](https://microsoft.github.io/language-server-protocol)
 - [luv](https://github.com/luvit/luv) and [libuv](https://github.com/libuv/libuv)
-- Shell scripting
 
 ## 💪 Things I do for fun
 
 - 🏋 Weightlifting
-- 🚴 Biking (mostly indoors)
+- 🚴 Biking
 - ⌨️ Coding
 - 🤼 Open source
 - ✈️ Travel
